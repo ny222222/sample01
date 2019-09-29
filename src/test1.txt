@@ -2,3 +2,5 @@
 2nd file
 3rd file (1st prototype)
 4th file (made develop)
+
+# ここが開発の最新ソース(masterは常に安定動作・リリース用)
