@@ -1,6 +1,7 @@
 1st file
-2nd file
-3rd file (1st prototype)
+2nd file (1st prototype)
+3rd file
 4th file (made develop)
 
 # ここが開発の最新ソース(masterは常に安定動作・リリース用)
+# bugfixしたよ
